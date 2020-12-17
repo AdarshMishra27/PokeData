@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">PokeData</string>
+    <string name="pok_mon">Pokémon</string>
+    <string name="pok_mon_det">PokémonDetails</string>
+    <string name="id">Id</string>
+    <string name="name">Name</string>
+    <string name="type_1">Type 1</string>
+    <string name="type_2">Type 2</string>
+    <string name="todo">TODO</string>
+    <string name="details">Details:</string>
+    <string name="idPoke">ID</string>
+    <string name="namePoke">Name</string>
+    <string name="typePoke">Type</string>
+    <string name="heightPoke">Height</string>
+    <string name="weightPoke">Weight</string>
+    <string name="sort_by">Sort By:</string>
+    <string name="ID">id</string>
+    <string name="Name">name</string>
+    <string name="range">Range</string>
+</resources>
